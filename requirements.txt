@@ -1,0 +1,11 @@
+# COVID-19 Diagnosis Expert System Requirements
+# Python 3.7+
+
+# CLIPS Expert System for Python
+clipspy>=1.0.0
+
+# Note: tkinter comes pre-installed with Python
+# If tkinter is missing, install it using your system package manager:
+# - Windows/macOS: Usually included with Python
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
